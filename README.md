@@ -26,6 +26,9 @@
 
 - [Responsive Image Breakpoints Generator](http://www.responsivebreakpoints.com/)
 
+### SVG
+- [SVOMG - GUI for SVGO Nodejs-based tool for optimizing SVG](https://jakearchibald.github.io/svgomg/)
+
 ### Favicon
 
 - [Favicon Generator](http://realfavicongenerator.net/)
@@ -96,3 +99,8 @@
 ## File Sharing
 
 - [Senduit 100MB limit single file share with expiry](http://www.senduit.com/)
+
+
+## Fake Content
+- [UI Names](http://uinames.com/)
+- [Rad Faces](http://www.radfaces.com/)
