@@ -5,6 +5,8 @@
 - [Think With Google Mobile Test](https://testmysite.thinkwithgoogle.com/)
 - [Google Search Console Mobile Test](https://search.google.com/search-console/mobile-friendly)
 - [Site Check Website Test](http://uitest.com/en/check/)
+- [ResponsiveTest](http://responsivetest.net/#u=http://www.zootemplate.com|1024|768|1)
+- [Am I Responsive?](http://ami.responsivedesign.is)
 - []()
 - []()
 
@@ -19,8 +21,6 @@
 ### Responsive
 
 - [Responsive Image Breakpoints Generator](http://www.responsivebreakpoints.com/)
-- [ResponsiveTest](http://responsivetest.net/#u=http://www.zootemplate.com|1024|768|1)
-- [Am I Responsive?](http://ami.responsivedesign.is)
 
 ### SVG
 - [SVOMG - GUI for SVGO Nodejs-based tool for optimizing SVG](https://jakearchibald.github.io/svgomg/)
