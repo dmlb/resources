@@ -113,3 +113,31 @@
 - [Squire Editor](http://neilj.github.io/Squire/)
 - [Medium Editor](https://yabwe.github.io/medium-editor/)
 - [Summernote](http://summernote.org)
+
+
+
+
+
+
+...
+
+- [Sell Your Domains - Namebox](https://namebox.io)
+- [Collaborative timelines](https://waypoints.io)
+- [Typetester - test and compare more than 2800 typefaces](https://www.typetester.org)
+- [Noise Texture Generator](http://www.noisetexturegenerator.com)
+- [Typing Practice for Programmers](https://typing.io)
+- [Accessibility Statement Generator](http://www.accessibilitystatementgenerator.com)
+- [Fibonacci Flexbox Composer](http://maxsteenbergen.com/fibonacci/)
+- [Mockuuups Freebies Sketch & PSD](https://www.mockuuups.com/freebies/)
+- [Framerjs - a design tool](http://framerjs.com)
+- [Moodboard - no account needed](http://www.gomoodboard.com)
+- [Project Naptha automatically applies state-of-the-art computer vision algorithms on every image you see while browsing the web.](https://projectnaptha.com)
+- [CreateJS - A suite of modular libraries and tools which work together or independently to enable rich interactive content on open web technologies via HTML5](http://www.createjs.com)
+- [Icon Gallery - Fine Icon Repository](http://icongal.com)
+- [Simple social sharing buttons generator](https://simplesharingbuttons.com)
+- [Browser Shots - Browser Compatibility Test](http://browsershots.org)
+- [Load Impact - Performance testing platform for developers.](https://loadimpact.com)
+- []()
+- []()
+- []()
+- []()
