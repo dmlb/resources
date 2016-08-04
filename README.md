@@ -149,12 +149,17 @@
 - [JSON Resume](https://jsonresume.org/)
 
 
-## File Sharing
+## File Sharing & Cloud Storage
 
 - [Senduit 100MB limit single file share with expiry](http://www.senduit.com/)
 - [Droplr - Sharing at lightspeed](https://droplr.com)
 - [sendvid - Upload and Share Videos Instantly](http://sendvid.com)
 - [Infinit - A better way to send small and large files. No file size limit. No waiting. No hassle. Always works!](https://infinit.io)
+- [Drop it to me](https://dropitto.me/)
+- [Resilio Resilient, fast and scalable file synchronization for enterprises and individuals](https://www.getsync.com/)
+- [Backblaze Never Lose a File Again with the World's Easiest Cloud Backup](https://www.backblaze.com/cloud-backup.html)
+- [Crashplan Computer Backup](https://www.crashplan.com/en-us/)
+
 
 ## Fake Content
 - [UI Names](http://uinames.com/)
@@ -194,6 +199,62 @@
 ## Browser Extensions
 - [SuperSorter - Clean up your bookmark mess!](https://chrome.google.com/webstore/detail/supersorter/hjebfgojnlefhdgmomncgjglmdckngij)
 - [Project Naptha automatically applies state-of-the-art computer vision algorithms on every image you see while browsing the web.](https://projectnaptha.com)
+
+
+## CMS & Website Creator Tools
+- [What is a headless CMS?](https://css-tricks.com/what-is-a-headless-cms/)
+- [relax/relax - New generation CMS on top of React, Redux and GraphQL](https://github.com/relax/relax)
+- [Pagekit A modern Open Source CMS Intuitive. Modular. Flexible.](https://pagekit.com/)
+- [October - The PHP CMS platform that gets back to basics.](http://octobercms.com/)
+- [Gleez CMS - Open source, extensible Content Management System that is built on the Kohana Framework](https://gleezcms.org/)
+- [baun A modern, lightweight, extensible CMS for PHP](https://bauncms.com/)
+- [Wonder CMS the smallest CMS in the world](http://wondercms.com/)
+- [Bolt Easy for editors, and a developer's dream cms](https://bolt.cm/)
+- [Instant Update Open Source CMS transforming your HTML into CMS instantly.](http://www.instant-update.com/)
+- [Pulse The CMS for web professionals](https://www.pulsecms.com/)
+- [SilverStripe is the intuitive content management system and flexible framework loved by editors and developers alike](http://www.silverstripe.org/)
+- [Apostrophe is a content management system that helps you stay on mission.](http://apostrophenow.org/)
+- [Webflow Meet the world’s first visual CMS](https://webflow.com/cms)
+- [CMS.js is fully client-side, Javascript site generator in the spirit of Jekyll that uses plain ol' HTML, CSS and Javascript to generate your website](https://github.com/cdmedia/cms.js)
+- [BigTree is an extremely extensible open source CMS built on PHP and MySQL.](https://www.bigtreecms.org/)
+- [Drupal - Open Source CMS](https://www.drupal.org/)
+- [Joomla! The CMS Trusted By Millions for their Websites](https://www.joomla.org/)
+- [DropkickCMS - WordPress is overkill Introducing a CMS for any HTML, Bootstrap or PHP template](https://www.yuzoolthemes.com/dropkickcms/)
+- [Sitecake Simple CMS With Easy Integration](http://sitecake.com/)
+- [Strikingly Make your impression online. Create a beautiful website for you & your business, in minutes.](https://www.strikingly.com/)
+- [The all-in-one web design platform. Design, prototype, and launch dynamic, responsive websites.](https://webflow.com/)
+- [Simply Built Make a Website You'll Love](https://www.simplybuilt.com/)
+- [Weld.io Think it, build it](https://www.weld.io/)
+- [GrapeJS Free and Open source Web Template Editor](http://grapesjs.com/)
+- []()
+- []()
+- []()
+- []()
+- []()
+
+### Flat File
+- [Statamic Build simply. The flat file CMS built for developers and clients alike.](https://statamic.com/)
+- [Pico - A stupidly simple, blazing fast, flat file CMS.](http://picocms.org/)
+- [Kirby is a file‑based CMS. Easy to setup. Easy to use. Flexible as hell.](https://getkirby.com/)
+- [razorCMS File Based Content Management System](http://www.razorcms.co.uk/)
+- [Grav is a modern open source flat-file CMS](https://getgrav.org/)
+
+
+### Blogging
+- [Jekyll Transform your plain text into static websites and blogs](http://jekyllrb.com/)
+- [Ghost A publishing platform for professional bloggers](https://ghost.org/)
+- [Anchor is a super-simple, lightweight blog system, made to let you just write.](https://anchorcms.com/)
+- [Medium is a community of readers and writers offering unique perspectives on ideas large and small.](https://medium.com/)
+ 
+
+### Portfolio
+- [Format Online Portfolio Website Made Easy](https://format.com/l/your_portfolio)
+- [Pixpa Create an Online Portfolio Website](https://www.pixpa.com/)
+- [Folio HD Online Portfolios for Photographers](https://foliohd.com/)
+
+### WordPress
+- [WordPress.org](https://en-ca.wordpress.org/)
+
 
 ...
 
@@ -255,6 +316,33 @@
 - [Sizer Soze What is the cost of your non-responsive images?](http://sizersoze.org)
 - [Unheap - A tidy Repository of jQuery Plugins & JavaScripts](http://www.unheap.com/)
 - [The Vanilla Javascript Repository](http://www.vanillalist.com/)
+- [Static Hosting for Bitbucket](https://www.aerobatic.com/)
+- [Upspace tiny menu bar uploader for Dropbox](http://hello.upspace.co/)
+- [JotForm for Dropbox](https://www.jotform.com/dropbox/)
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
 - []()
 - []()
 - []()
