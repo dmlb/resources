@@ -134,7 +134,6 @@
 - [CSS Compressor](http://www.cssdrive.com/index.php/main/csscompressor/)
 - [Autoprefixer](https://github.com/postcss/autoprefixer)
 - [CSS Ruler](http://katydecorah.com/css-ruler/)
-- [universal.css](https://github.com/marmelab/universal.css)
 - [CSS Click Chart](http://css3clickchart.com/)
 - [Primer undercoats your CSS by pulling out all of your classes and id's and placing them into a starter stylesheet](http://primercss.com/index.php)
 - [Generate Responsive Video Embed Code for popular video sites](http://embedresponsively.com/)
@@ -264,7 +263,7 @@
 - [WordPress.org](https://en-ca.wordpress.org/)
 
 
-## Frameworks
+## Frameworks, Libraries & Plugins
 
 ### PHP 
 - [Slim is a PHP micro framework that helps you quickly write simple yet powerful web applications and APIs](http://www.slimframework.com)
@@ -280,6 +279,14 @@
 - [Kohana An elegant HMVC PHP5 framework that provides a rich set of components for building web applications](https://kohanaframework.org)
 - [Flight is a fast, simple, extensible framework for PHP. Flight enables you to quickly and easily build RESTful web applications](http://flightphp.com)
 - [Agile Toolkit Full-stack PHP Web UI toolkit](http://www.agiletoolkit.org)
+
+#### Libraries
+- [The lightweight PHP class for detecting mobile devices (including tablets)](http://mobiledetect.net)
+- [phpColors A series of methods that let you manipulate colors. Just incase you ever need different shades of one color on the fly](http://mexitek.github.io/phpColors/)
+- [ColorJizz is a PHP library for manipulating and converting colors](https://github.com/mikeemoo/ColorJizz-PHP)
+- [Composer Dependency Manager for PHP](https://getcomposer.org)
+
+
 
 ### CSS, SASS & Less 
 
@@ -325,7 +332,7 @@
 - [Pills A simple responsive CSS Grid for humans.](https://github.com/rohitkrai03/pills)
 - [Pintsize is built with designers in mind. It aims to make building custom responsive CSS grids used in your designs simple and acurate while maintaining a flexible system for developers](http://pintsize.io)
 - [Avalanche CSS grid system Superclean, powerful, responsive, Sass-based, BEM-syntax CSS grid system](https://github.com/colourgarden/avalanche)
-
+- [Crow A smart grid framework](http://getcrow.eu)
 
 #### Grid & UI
 - [Simple Grid is a CSS grid for your website & simple typography](http://simplegrid.io)
@@ -333,7 +340,26 @@
 - [Base A Rock Solid, Responsive HTML/CSS Framework](http://getbase.org)
 - [Zurb Foundation](http://foundation.zurb.com)
 - [Twitter Bootstrap](http://getbootstrap.com)
+- [Cutestrap A sassy, opinionated CSS Framework. A tiny alternative to Bootstrap.](https://www.cutestrap.com)
+- [Picnic CSS is a lightweight and beautiful CSS library](http://picnicss.com)
+- [RichCSS CSS that doesn’t drive you NUTS Beautiful, DRY, Clean and Reusable CSS](http://www.richcss.com)
+- [Vital CSS Framework A minimally invasive CSS framework for modern web applications](https://engineering.doximity.com/articles/vital-css-framework)
+- [Layers CSS is a CSS framework aimed for practical use cases. It comes with a small footprint and zero bullshit.](http://eiskis.net/layers/)
+- [Semantic UI User Interface is the language of the web](http://semantic-ui.com/)
+- [Baseguide is a lightweight and robust CSS framework for prototyping and production code.](http://basegui.de)
+- [Basscss Low-Level CSS Toolkit 2.13 KB](http://www.basscss.com)
+- [Concise CSS, a framework written in SASS that’s lightweight and easy-to-use.](http://concisecss.com)
 - []()
+- []()
+- []()
+- []()
+- []()
+
+
+#### UI 
+- [universal.css](https://github.com/marmelab/universal.css)
+- [Typesettings.css](http://mikemai.net/typesettings/index.html)
+- [Topcoat CSS for clean and fast web apps](http://topcoat.io)
 - []()
 - []()
 - []()
@@ -342,7 +368,10 @@
 - []()
 - []()
 
-#### UI 
+#### Animation
+- [CSShake](https://elrumordelaluz.github.io/csshake/)
+- [Loaders.css](https://connoratherton.com/loaders)
+- [Transformicons Animated icons, symbols and buttons using SVG and CSS](http://www.transformicons.com)
 - []()
 - []()
 - []()
@@ -350,18 +379,18 @@
 - []()
 - []()
 - []()
-- []()
-- []()
-- []()
+
+
 
 ### Javascript
 
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
+- [AnuglarJS HTML enhanced for web apps!](https://angularjs.org)
+- [React A JavaScript library for building user interfaces](https://facebook.github.io/react/)
+- [Ember.js A framework for creating ambitious web applications](http://emberjs.com)
+- [Meteor The fastest way to build javascript apps](https://www.meteor.com)
+- [Ionic is the beautiful, open source mobile SDK for developing native and progressive web apps.](http://ionicframework.com)
+- [Use the Polymer library to make the most of Web Components, a powerful new platform feature for extending HTML and componentizing your apps.](https://www.polymer-project.org/1.0/)
+- [Backbone.js gives structure to web applications by providing models with key-value binding and custom events, collections with a rich API of enumerable functions, views with declarative event handling, and connects it all to your existing API over a RESTful JSON interface.](http://backbonejs.org)
 
 #### JS & jQuery Grids (think pinterest)
 
@@ -457,10 +486,7 @@
 - [Static Hosting for Bitbucket](https://www.aerobatic.com/)
 - [Upspace tiny menu bar uploader for Dropbox](http://hello.upspace.co/)
 - [JotForm for Dropbox](https://www.jotform.com/dropbox/)
-- [The lightweight PHP class for detecting mobile devices (including tablets)](http://mobiledetect.net)
-- [phpColors A series of methods that let you manipulate colors. Just incase you ever need different shades of one color on the fly](http://mexitek.github.io/phpColors/)
-- [ColorJizz is a PHP library for manipulating and converting colors](https://github.com/mikeemoo/ColorJizz-PHP)
-- [Composer Dependency Manager for PHP](https://getcomposer.org)
+
 - []()
 - []()
 - []()
