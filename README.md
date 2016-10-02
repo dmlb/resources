@@ -314,27 +314,6 @@
 - [Avalanche CSS grid system Superclean, powerful, responsive, Sass-based, BEM-syntax CSS grid system](https://github.com/colourgarden/avalanche)
 - [Crow A smart grid framework](http://getcrow.eu)
 
-#### Grid & UI
-- [Simple Grid is a CSS grid for your website & simple typography](http://simplegrid.io)
-- [Bijou A small (less than 2 KiB) CSS framework](http://andhart.github.io/bijou/)
-- [Base A Rock Solid, Responsive HTML/CSS Framework](http://getbase.org)
-- [Zurb Foundation](http://foundation.zurb.com)
-- [Twitter Bootstrap](http://getbootstrap.com)
-- [Cutestrap A sassy, opinionated CSS Framework. A tiny alternative to Bootstrap.](https://www.cutestrap.com)
-- [Picnic CSS is a lightweight and beautiful CSS library](http://picnicss.com)
-- [RichCSS CSS that doesn’t drive you NUTS Beautiful, DRY, Clean and Reusable CSS](http://www.richcss.com)
-- [Vital CSS Framework A minimally invasive CSS framework for modern web applications](https://engineering.doximity.com/articles/vital-css-framework)
-- [Layers CSS is a CSS framework aimed for practical use cases. It comes with a small footprint and zero bullshit.](http://eiskis.net/layers/)
-- [Semantic UI User Interface is the language of the web](http://semantic-ui.com/)
-- [Baseguide is a lightweight and robust CSS framework for prototyping and production code.](http://basegui.de)
-- [Basscss Low-Level CSS Toolkit 2.13 KB](http://www.basscss.com)
-- [Concise CSS, a framework written in SASS that’s lightweight and easy-to-use.](http://concisecss.com)
-- []()
-- []()
-- []()
-- []()
-- []()
-
 
 #### UI 
 - [universal.css](https://github.com/marmelab/universal.css)
@@ -364,7 +343,6 @@
 
 ### Javascript
 
-- [AnuglarJS HTML enhanced for web apps!](https://angularjs.org)
 - [React A JavaScript library for building user interfaces](https://facebook.github.io/react/)
 - [Ember.js A framework for creating ambitious web applications](http://emberjs.com)
 - [Meteor The fastest way to build javascript apps](https://www.meteor.com)
