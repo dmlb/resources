@@ -1,5 +1,5 @@
 # Resources
-- []()
+- [My Google Plus Collections: Web tools, resources, inspiration.](https://plus.google.com/u/0/110180557625221120867/palette)
 - []()
 - []()
 - []()
