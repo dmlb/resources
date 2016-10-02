@@ -39,21 +39,6 @@
 - [Convert to .ico](http://convert2ico.com/)
 - [MakeAppIcon - Generate app icons of all sizes with a click!](http://makeappicon.com)
 
-### Icons 
-
-- [Flat Shadow Generator](http://flattyshadow.com)
-- [Icon Gallery - Fine Icon Repository](http://icongal.com)
-
-### Sprites
-
-- [Spritebox is a WYSIWYG tool to help web designers create CSS from sprite images](http://www.spritebox.net)
-
-### Generators
-
-- [Patternizer - Design & Develop Patterns](https://patternizer.com/)
-- [ZenBG - Background Generator](http://galacticmilk.com/bg/)
-- [Noise Texture Generator](http://www.noisetexturegenerator.com)
-
 ### Infographic
 - [Venngage Free Infographic Maker](https://venngage.com)
 - [infogr.am Create online charts & infographics](https://infogr.am)
@@ -73,7 +58,6 @@
  
 ### Converters
 
-- [RGBA Code Generator with Preview](http://www.css3maker.com/css-3-rgba.html)
 - [HEX to RGB converter](http://hex.colorrrs.com/)
 - [RGB to HEX converter](http://rgb.to/)
 - [Color converter (rgb,hex,hsl,hsv)](http://www.cssportal.com/css-color-converter/)
@@ -172,9 +156,6 @@
 - [UI Names](http://uinames.com/)
 - [Rad Faces](http://www.radfaces.com/)
 - [Random Users Generator](http://www.designskilz.com/random-users/)
-- [DND Ipsum](http://www.dndipsum.com)
-- [Batman Ipsum](http://batman-ipsum.com)
-- [Pirate Ipsum](http://pirateipsum.me)
 - [Corporate Ipsum](http://www.cipsum.com)
 - [Lorem Ipsum](http://www.lipsum.com)
 - [HTML Markup Ipsum](http://html-ipsum.com)
@@ -222,7 +203,6 @@
 - [SilverStripe is the intuitive content management system and flexible framework loved by editors and developers alike](http://www.silverstripe.org/)
 - [Apostrophe is a content management system that helps you stay on mission.](http://apostrophenow.org/)
 - [Webflow Meet the world’s first visual CMS](https://webflow.com/cms)
-- [CMS.js is fully client-side, Javascript site generator in the spirit of Jekyll that uses plain ol' HTML, CSS and Javascript to generate your website](https://github.com/cdmedia/cms.js)
 - [BigTree is an extremely extensible open source CMS built on PHP and MySQL.](https://www.bigtreecms.org/)
 - [Drupal - Open Source CMS](https://www.drupal.org/)
 - [Joomla! The CMS Trusted By Millions for their Websites](https://www.joomla.org/)
@@ -428,7 +408,6 @@
 - [Sell Your Domains - Namebox](https://namebox.io)
 - [Collaborative timelines](https://waypoints.io)
 - [Typing Practice for Programmers](https://typing.io)
-- [Accessibility Statement Generator](http://www.accessibilitystatementgenerator.com)
 - [Mockuuups Freebies Sketch & PSD](https://www.mockuuups.com/freebies/)
 - [Framerjs - a design tool](http://framerjs.com)
 - [Moodboard - no account needed](http://www.gomoodboard.com)
@@ -438,14 +417,12 @@
 - [twproject Gantt - free online tool for creating and sharing Gantts](https://gantt.twproject.com)
 - [DOM Monster is a cross-platform, cross-browser bookmarklet that will analyze the DOM & other features of the page you're on, and give you its bill of health](http://mir.aculo.us/dom-monster/)
 - [ShapeItApp - Turn Your Screenshots into stunning Mockup Graphics](http://shapeitapp.com/#/templates/MBP_Retina_15_-_90_-_right)
-- [CRUD Admin Generator - An open source tool to generate a complete backend from a MySql database](http://crud-admin-generator.com)
 - [wireframe.cc minimal wireframing tool](https://wireframe.cc)
 - [jotform - Easily create online forms and publish them](http://www.jotform.com)
 - [vizualize.me - Visualize your resume in one click](http://vizualize.me/#)
 - [easel.ly create and share visual ideas online](http://www.easel.ly)
 - [Moqups Online Mockup, Wireframe & UI Prototyping Tool](https://moqups.com)
 - [Trello’s boards, lists, and cards enable you to organize and prioritize your projects in a fun, flexible and rewarding way](https://trello.com)
-
 - [Dillinger Online Markdown Editor](http://dillinger.io)
 - [Camp NaNoWriMo is a virtual writer’s retreat, designed for maximum flexibility and creativity](https://campnanowrimo.org/sign_in)
 - [Online Javascript Compression Tool](http://jscompress.com)
@@ -472,7 +449,6 @@
 - [Generate Free Privacy Policy](http://privacypolicies.com)
 - [Kraken.io is a robust, ultra-fast image optimizer and compressor with best-in-class algorithms subscription service](https://kraken.io)
 - [HTMLHint is a Static Code Analysis Tool for HTML, you can use it with IDE or in build system.](http://htmlhint.com)
-- [Free fully customizable CSS loader generator](http://www.wifeo.com/free-css-loader-generator.php)
 - [Getshares - track your url](http://www.getshar.es)
 - [free online convert scanned pdf to word](http://www.onlineocr.net)
 - [Represent.io - A better way to resume](https://represent.io)
@@ -486,7 +462,6 @@
 - [Static Hosting for Bitbucket](https://www.aerobatic.com/)
 - [Upspace tiny menu bar uploader for Dropbox](http://hello.upspace.co/)
 - [JotForm for Dropbox](https://www.jotform.com/dropbox/)
-
 - [Dos and don'ts on designing for accessibility](https://accessibility.blog.gov.uk/2016/09/02/dos-and-donts-on-designing-for-accessibility/)
 - []()
 - []()
