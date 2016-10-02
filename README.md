@@ -315,40 +315,6 @@
 - [Crow A smart grid framework](http://getcrow.eu)
 
 
-#### UI 
-- [universal.css](https://github.com/marmelab/universal.css)
-- [Typesettings.css](http://mikemai.net/typesettings/index.html)
-- [Topcoat CSS for clean and fast web apps](http://topcoat.io)
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-
-#### Animation
-- [CSShake](https://elrumordelaluz.github.io/csshake/)
-- [Loaders.css](https://connoratherton.com/loaders)
-- [Transformicons Animated icons, symbols and buttons using SVG and CSS](http://www.transformicons.com)
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-
-
-
-### Javascript
-
-- [React A JavaScript library for building user interfaces](https://facebook.github.io/react/)
-- [Ember.js A framework for creating ambitious web applications](http://emberjs.com)
-- [Meteor The fastest way to build javascript apps](https://www.meteor.com)
-- [Ionic is the beautiful, open source mobile SDK for developing native and progressive web apps.](http://ionicframework.com)
-- [Use the Polymer library to make the most of Web Components, a powerful new platform feature for extending HTML and componentizing your apps.](https://www.polymer-project.org/1.0/)
-- [Backbone.js gives structure to web applications by providing models with key-value binding and custom events, collections with a rich API of enumerable functions, views with declarative event handling, and connects it all to your existing API over a RESTful JSON interface.](http://backbonejs.org)
 
 #### JS & jQuery Grids (think pinterest)
 
