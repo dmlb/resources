@@ -134,10 +134,7 @@
 
 
 ## Code Playgrounds
-- [Codepen](http://codepen.io)
-- [JS Fiddle](https://jsfiddle.net)
-- [JSBin](http://jsbin.com/?html,output)
-- [PHP Playground](https://beta.tehplayground.com)
+- [Code Playground Collection](https://plus.google.com/collection/EO1gbB)
 
 
 ## Email
