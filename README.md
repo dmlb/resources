@@ -46,48 +46,9 @@
 
 ## Colour
 
-### Pickers & Palettes
+- [Colour Tools Collection](https://plus.google.com/collection/IUG-mB)
 
-- [Color Picker](http://www.colorpicker.com/)
-- [Colordot - drag mouse while colour changes, click to pick a color](https://color.hailpixel.com)
-- [ColorBlender - live preview blending tool](http://www.colorblender.com/)
-- [Paletton - The Color Scheme Designer](http://paletton.com/)
-- [Coleure Pallette Tool](https://www.coleure.com/)
-- [Material Design Pallette Generator](http://www.materialpalette.com/)
-- [Color Lisa Famous Artist Palettes](http://colorlisa.com/)
- 
-### Converters
 
-- [HEX to RGB converter](http://hex.colorrrs.com/)
-- [RGB to HEX converter](http://rgb.to/)
-- [Color converter (rgb,hex,hsl,hsv)](http://www.cssportal.com/css-color-converter/)
-
-### Contrast 
-
-- [WebAIM Color Contrast Checker](http://webaim.org/resources/contrastchecker/)
-- [Color Contrast Checker](https://snook.ca/technical/colour_contrast/colour.html)
-- [Contrast Ratio Calculator](http://leaverou.github.io/contrast-ratio/)
- 
-### Colourblind
-
-- [Colorblind Web Page Filter](http://colorfilter.wickline.org/)
-
-### Gradients
-
-- [UI Gradients - Get CSS for predefined "Beautiful colour gradients"](http://uigradients.com/)
-- [draGGradients - create custom CSS gradients by dragging your mouse](http://elrumordelaluz.github.io/draGGradients/)
-- [Colorful CSS Gradient Background Generator](http://www.webcore-it.com/colorful-background/)
-- [Blend - Generate simple and beautiful CSS3 gradients](http://colinkeany.com/blend/)
-- [Gradify is a module which finds the most prominent colors in any image, and produces a scalable, responsive CSS gradient. This can provide a less jarring experience as image placeholders.](http://www.gradifycss.com)
-- [CSS Gradient Animator](https://www.gradient-animator.com)
-
-### Information
-
-- [Delta-E Calculator - check difference between to RGB colors](http://colormine.org/delta-e-calculator/)
-- [Color Hexa - Color encyclopedia](http://www.colorhexa.com/)
-- [Color Hex - Color-hex gives information about colors (RGB,HSL,HSV and CMYK), Triadic, monochromatic and analogous](http://www.color-hex.com/)
-- [Color Cymbolism](http://cymbolism.com/)
-- [Brand Guideline Colour](http://guidelinecolour.com/)
 
 ## Social Media
 
