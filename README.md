@@ -203,26 +203,8 @@
 
 ## Frameworks, Libraries & Plugins
 
-### PHP 
-- [Slim is a PHP micro framework that helps you quickly write simple yet powerful web applications and APIs](http://www.slimframework.com)
-- [PHAP Creative native iOS, Android and Windows Phone apps in PHP.](http://phap.landingpage.io)
-- [Mvc5 Framework An enhanced PHP programming environment that provides inversion of control of a web application or any function](http://mvc5.github.io)
-- [A full-stack PHP framework delivered as a C-extension](https://phalconphp.com/en/)
-- [Lumen The stunningly fast micro-framework by Laravel](https://lumen.laravel.com)
-- [Laravel The PHP Framework For Web Artisans](https://laravel.com)
-- [Zend Framework is a collection of professional PHP packages](https://framework.zend.com)
-- [CakePHP makes building web applications simpler, faster, while requiring less code](http://cakephp.org)
-- [CodeIgniter is a powerful PHP framework with a very small footprint, built for developers who need a simple and elegant toolkit to create full-featured web applications](http://www.codeigniter.com)
-- [Symfony is a set of reusable PHP components](https://symfony.com)
-- [Kohana An elegant HMVC PHP5 framework that provides a rich set of components for building web applications](https://kohanaframework.org)
-- [Flight is a fast, simple, extensible framework for PHP. Flight enables you to quickly and easily build RESTful web applications](http://flightphp.com)
-- [Agile Toolkit Full-stack PHP Web UI toolkit](http://www.agiletoolkit.org)
+- [PHP Collection](https://plus.google.com/collection/ArH-mB)
 
-#### Libraries
-- [The lightweight PHP class for detecting mobile devices (including tablets)](http://mobiledetect.net)
-- [phpColors A series of methods that let you manipulate colors. Just incase you ever need different shades of one color on the fly](http://mexitek.github.io/phpColors/)
-- [ColorJizz is a PHP library for manipulating and converting colors](https://github.com/mikeemoo/ColorJizz-PHP)
-- [Composer Dependency Manager for PHP](https://getcomposer.org)
 
 
 
